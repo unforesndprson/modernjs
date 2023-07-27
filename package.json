@@ -1,0 +1,21 @@
+{
+  "name": "modernjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "modern dev",
+    "build": "modern build",
+    "start": "modern start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17",
+    "react-dom": "^17",
+    "@modern-js/runtime": "^1.0.0"
+  },
+  "devDependencies": {
+    "@modern-js/app-tools": "^1.0.0"
+  }
+}
